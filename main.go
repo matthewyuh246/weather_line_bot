@@ -5,6 +5,7 @@ import (
 	"os"
 
 	"github.com/line/line-bot-sdk-go/linebot"
+	"github.com/matthewyuh246/weather_line_bot/weather"
 )
 
 func main() {
